@@ -28,6 +28,9 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
   </div>
+  <div>
+    <p>My boyfriend is really cool.</p>
+  </div>
 </template>
 
 <script>
